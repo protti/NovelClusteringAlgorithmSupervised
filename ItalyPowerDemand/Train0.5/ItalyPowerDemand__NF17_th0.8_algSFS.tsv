@@ -1,0 +1,21 @@
+Threshold: 	0.8
+Algoritmo Usato:	 Greedy Modularity 
+Time Community Detection: 	40.70392465591431
+Time Computation Matrix: 	157.09685063362122
+Feature 0: 	value__energy_ratio_by_chunks__num_segments_10__segment_focus_7
+Feature 1: 	value__fft_coefficient__coeff_2__attr_"angle"
+Feature 2: 	value__fft_coefficient__coeff_4__attr_"imag"
+Feature 3: 	value__fft_coefficient__coeff_2__attr_"real"
+Feature 4: 	value__fft_coefficient__coeff_4__attr_"abs"
+Feature 5: 	value__cwt_coefficients__widths_(2, 5, 10, 20)__coeff_7__w_2
+Feature 6: 	value__cwt_coefficients__widths_(2, 5, 10, 20)__coeff_14__w_2
+Feature 7: 	value__time_reversal_asymmetry_statistic__lag_3
+Feature 8: 	value__fft_coefficient__coeff_6__attr_"imag"
+Feature 9: 	value__agg_linear_trend__f_agg_"max"__chunk_len_5__attr_"slope"
+Feature 10: 	value__agg_linear_trend__f_agg_"max"__chunk_len_5__attr_"rvalue"
+Feature 11: 	value__autocorrelation__lag_7
+Feature 12: 	value__autocorrelation__lag_8
+Feature 13: 	value__fft_coefficient__coeff_3__attr_"angle"
+Feature 14: 	value__cwt_coefficients__widths_(2, 5, 10, 20)__coeff_4__w_20
+Feature 15: 	value__agg_linear_trend__f_agg_"max"__chunk_len_5__attr_"intercept"
+Feature 16: 	value__fft_coefficient__coeff_6__attr_"angle"

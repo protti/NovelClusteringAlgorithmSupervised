@@ -1,0 +1,6 @@
+Threshold: 	0.8
+Algoritmo Usato:	 Greedy Modularity 
+Time Community Detection: 	46.50061392784119
+Time Computation Matrix: 	26.234744548797607
+Feature 0: 	value__ratio_value_number_to_time_series_length
+Feature 1: 	value__percentage_of_reoccurring_values_to_all_values

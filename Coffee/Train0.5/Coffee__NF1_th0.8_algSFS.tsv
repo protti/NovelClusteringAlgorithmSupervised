@@ -1,0 +1,5 @@
+Threshold: 	0.8
+Algoritmo Usato:	 Greedy Modularity 
+Time Community Detection: 	3.2031869888305664
+Time Computation Matrix: 	3.2656896114349365
+Feature 0: 	value__energy_ratio_by_chunks__num_segments_10__segment_focus_5

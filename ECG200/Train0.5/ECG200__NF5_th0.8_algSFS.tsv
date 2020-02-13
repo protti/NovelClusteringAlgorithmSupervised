@@ -1,0 +1,9 @@
+Threshold: 	0.8
+Algoritmo Usato:	 Greedy Modularity 
+Time Community Detection: 	4.3750855922698975
+Time Computation Matrix: 	3.5938193798065186
+Feature 0: 	value__fft_coefficient__coeff_12__attr_"abs"
+Feature 1: 	value__fft_coefficient__coeff_13__attr_"imag"
+Feature 2: 	value__fft_coefficient__coeff_6__attr_"abs"
+Feature 3: 	value__fft_coefficient__coeff_13__attr_"abs"
+Feature 4: 	value__fft_coefficient__coeff_12__attr_"imag"

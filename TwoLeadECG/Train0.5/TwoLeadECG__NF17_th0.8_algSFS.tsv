@@ -1,0 +1,21 @@
+Threshold: 	0.8
+Algoritmo Usato:	 Greedy Modularity 
+Time Community Detection: 	45.563100814819336
+Time Computation Matrix: 	187.0649344921112
+Feature 0: 	value__ratio_value_number_to_time_series_length
+Feature 1: 	value__percentage_of_reoccurring_values_to_all_values
+Feature 2: 	value__sample_entropy
+Feature 3: 	value__agg_autocorrelation__f_agg_"var"__maxlag_40
+Feature 4: 	value__change_quantiles__f_agg_"var"__isabs_True__qh_0.2__ql_0.0
+Feature 5: 	value__approximate_entropy__m_2__r_0.7
+Feature 6: 	value__percentage_of_reoccurring_datapoints_to_all_datapoints
+Feature 7: 	value__time_reversal_asymmetry_statistic__lag_2
+Feature 8: 	value__approximate_entropy__m_2__r_0.5
+Feature 9: 	value__binned_entropy__max_bins_10
+Feature 10: 	value__approximate_entropy__m_2__r_0.3
+Feature 11: 	value__fft_coefficient__coeff_3__attr_"abs"
+Feature 12: 	value__change_quantiles__f_agg_"var"__isabs_False__qh_0.8__ql_0.2
+Feature 13: 	value__change_quantiles__f_agg_"var"__isabs_True__qh_0.4__ql_0.0
+Feature 14: 	value__ratio_beyond_r_sigma__r_1.5
+Feature 15: 	value__fft_coefficient__coeff_7__attr_"abs"
+Feature 16: 	value__change_quantiles__f_agg_"var"__isabs_False__qh_0.2__ql_0.0

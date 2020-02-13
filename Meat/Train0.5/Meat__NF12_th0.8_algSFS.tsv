@@ -1,0 +1,16 @@
+Threshold: 	0.8
+Algoritmo Usato:	 Greedy Modularity 
+Time Community Detection: 	3.609421730041504
+Time Computation Matrix: 	3.3437933921813965
+Feature 0: 	value__ratio_beyond_r_sigma__r_1.5
+Feature 1: 	value__ratio_beyond_r_sigma__r_0.5
+Feature 2: 	value__sample_entropy
+Feature 3: 	value__fft_coefficient__coeff_6__attr_"imag"
+Feature 4: 	value__quantile__q_0.9
+Feature 5: 	value__fft_coefficient__coeff_4__attr_"abs"
+Feature 6: 	value__energy_ratio_by_chunks__num_segments_10__segment_focus_5
+Feature 7: 	value__fft_coefficient__coeff_4__attr_"real"
+Feature 8: 	value__fft_coefficient__coeff_1__attr_"real"
+Feature 9: 	value__cwt_coefficients__widths_(2, 5, 10, 20)__coeff_4__w_5
+Feature 10: 	value__cwt_coefficients__widths_(2, 5, 10, 20)__coeff_5__w_5
+Feature 11: 	value__cwt_coefficients__widths_(2, 5, 10, 20)__coeff_6__w_5

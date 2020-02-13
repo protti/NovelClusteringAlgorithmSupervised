@@ -1,0 +1,7 @@
+Threshold: 	0.8
+Algoritmo Usato:	 Greedy Modularity 
+Time Community Detection: 	4.4844629764556885
+Time Computation Matrix: 	3.4375667572021484
+Feature 0: 	value__approximate_entropy__m_2__r_0.9
+Feature 1: 	value__approximate_entropy__m_2__r_0.3
+Feature 2: 	value__approximate_entropy__m_2__r_0.7

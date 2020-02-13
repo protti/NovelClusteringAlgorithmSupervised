@@ -1,0 +1,5 @@
+Threshold: 	0.8
+Algoritmo Usato:	 Greedy Modularity 
+Time Community Detection: 	4.390710830688477
+Time Computation Matrix: 	3.359440565109253
+Feature 0: 	value__ratio_beyond_r_sigma__r_0.5

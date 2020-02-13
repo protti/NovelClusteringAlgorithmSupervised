@@ -1,0 +1,24 @@
+Threshold: 	0.8
+Algoritmo Usato:	 Greedy Modularity 
+Time Community Detection: 	21.75028705596924
+Time Computation Matrix: 	62.23521637916565
+Feature 0: 	value__autocorrelation__lag_1
+Feature 1: 	value__partial_autocorrelation__lag_1
+Feature 2: 	value__cid_ce__normalize_False
+Feature 3: 	value__cid_ce__normalize_True
+Feature 4: 	value__change_quantiles__f_agg_"var"__isabs_False__qh_1.0__ql_0.0
+Feature 5: 	value__fft_aggregated__aggtype_"centroid"
+Feature 6: 	value__change_quantiles__f_agg_"var"__isabs_False__qh_1.0__ql_0.2
+Feature 7: 	value__change_quantiles__f_agg_"var"__isabs_True__qh_1.0__ql_0.0
+Feature 8: 	value__fft_aggregated__aggtype_"skew"
+Feature 9: 	value__percentage_of_reoccurring_values_to_all_values
+Feature 10: 	value__change_quantiles__f_agg_"var"__isabs_False__qh_1.0__ql_0.4
+Feature 11: 	value__change_quantiles__f_agg_"var"__isabs_True__qh_1.0__ql_0.2
+Feature 12: 	value__ratio_value_number_to_time_series_length
+Feature 13: 	value__change_quantiles__f_agg_"var"__isabs_True__qh_1.0__ql_0.4
+Feature 14: 	value__autocorrelation__lag_2
+Feature 15: 	value__change_quantiles__f_agg_"var"__isabs_True__qh_1.0__ql_0.8
+Feature 16: 	value__change_quantiles__f_agg_"var"__isabs_False__qh_1.0__ql_0.8
+Feature 17: 	value__autocorrelation__lag_3
+Feature 18: 	value__change_quantiles__f_agg_"var"__isabs_False__qh_1.0__ql_0.6
+Feature 19: 	value__change_quantiles__f_agg_"var"__isabs_True__qh_1.0__ql_0.6

@@ -1,0 +1,6 @@
+Threshold: 	0.8
+Algoritmo Usato:	 Greedy Modularity 
+Time Community Detection: 	21.35965609550476
+Time Computation Matrix: 	9.828255414962769
+Feature 0: 	value__autocorrelation__lag_1
+Feature 1: 	value__partial_autocorrelation__lag_1
