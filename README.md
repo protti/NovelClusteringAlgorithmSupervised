@@ -14,9 +14,6 @@ featuNum = [x for x in range(1,numberFeatUse+1)]
 # Name of the dataset
 datasetUsed = ["Coffee"]
 
-# Percentage for Cross Validation
-trainPerc = 0.5
-
 # Threshold of the distance
 threshold = 0.8
 
